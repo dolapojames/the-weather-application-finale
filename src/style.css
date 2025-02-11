@@ -85,8 +85,7 @@ footer {
   margin-top: 0;
 }
 .weather-app-temperature-icon {
-  font-size: 30px;
-  margin-top: 15px;
+  height: 70px;
 }
 .weather-app-temperature-unit {
   font-size: 20px;
